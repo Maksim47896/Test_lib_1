@@ -1,8 +1,10 @@
 #ifndef __VER_H
 #define __VER_H
 
-#define VALUE 200
+#include <stdint.h>
 
+#define VALUE 100
 
+extern uint32_t time;
 
 #endif /* __VER_H */
